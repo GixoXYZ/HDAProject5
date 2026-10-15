@@ -68,6 +68,7 @@ Desktop.ini
 *.xcodeproj
 *.xcworkspace
 *.sln
+*.slnx
 *.suo
 *.opensdf
 *.sdf
